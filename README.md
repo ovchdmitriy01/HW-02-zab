@@ -44,5 +44,9 @@ Add files via upload
 ![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab5.png)
 ![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab6.png)
 
+Initial commit
+Update README.md
+Add files via upload
+Update README.md
 
 ---
