@@ -13,7 +13,12 @@
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab1.png)
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab2.png)
 
+Initial commit
+Update README.md
+Add files via upload
 
 ---
 
@@ -33,5 +38,11 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
+
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab3.png)
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab4.png)
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab5.png)
+![alt text](https://github.com/ovchdmitriy01/HW-02-zab/blob/main/zab6.png)
+
 
 ---
